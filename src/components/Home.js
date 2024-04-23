@@ -1,6 +1,6 @@
 import React from 'react';
 import Kerka12 from '../images/kerla1.jpg';
-
+g
 
 function Home() {
   return (
